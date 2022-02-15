@@ -1,0 +1,11 @@
+*.class
+*.log
+null
+project/target
+target
+out
+inputs
+output
+export
+*.xml
+.bsp
