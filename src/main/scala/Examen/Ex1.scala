@@ -79,6 +79,6 @@ object Ex1 {
 
 
     def main(args: Array[String]) {
-        
+        val stari = Array.tabulate(12)((i) => new Nominalizare(StareUrmatoare))
     }
 }
